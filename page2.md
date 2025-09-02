@@ -2,7 +2,7 @@
 
 This is the second page
 
-[click here to go back to page 1](README.md)
+[click here to go back to page 1](README.md.md)
 
 [click here to go back to Google](https//:www.google.com)
 
