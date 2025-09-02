@@ -6,3 +6,4 @@ Test repository for Intro to T&T
 
 here are some links
 [page2](page2.md)
+[page3](page3.md)
