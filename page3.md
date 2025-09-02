@@ -2,4 +2,4 @@
 
 This is the third page
 
-![A cute picture of orange cat](kitten.jpeg)
+![A cute picture of orange cat](https//:kitten.jpeg)
