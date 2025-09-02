@@ -2,4 +2,4 @@
 
 This is the third page
 
-![A cute picture of orange cat](https//:kitten.jpeg)
+![A cute picture of orange cat](https://github.com/relianceenwerem/eng6800-fall2025/blob/main/kitten.jpeg)
